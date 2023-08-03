@@ -1,9 +1,4 @@
-# Project-15 HTML and CSS
-
-
-# [Link of live Project]()
-
-![Images]()
+# Project- Home Bazaar Full Stack.
 
 # What I learnt here from this project-
 
